@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nann Ei Ei Win
+- 👋 Hi, I’m Nann Ei Ei Win and a 20-year-old student from Myanmar..
 - 👀 I’m interested in Web development and Python.
 - 🌱 I’m currently learning HTML,CSS and Python.
 - 📫 You can reach me on WhatsApp +959768726806
