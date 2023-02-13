@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning HTML,CSS and some JavaScript.<br>My ultimate goal is to become a software engineer. <br>Now I’m focusing on Backend Wed-development.<br>
+I’m currently learning HTML,CSS and JavaScript.<br>My ultimate goal is to become a software engineer. <br>Now I’m focusing on Front-End Wed-development.<br>
 
 
 ## 🌐 Socials:
