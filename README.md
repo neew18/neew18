@@ -6,9 +6,11 @@
 
 - 👯 I’m looking to collaborate on **any Front-End projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-neew.netlify.app/](https://portfolio-neew.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-neew.netlify.app/) and on here on GitHub.
 
-- 📫 You can reach me at **nanneieiwinn37@gmail.com**
+- 📫 You can reach me at **nanneieiwinn37@gmail.com** and [Linktree](https://neew18.github.io/neew-links-tree/).
+
+<p><em>Don't forget to give a star to my repo if you like my projects! 💖💖</em></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
